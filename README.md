@@ -20,6 +20,6 @@ python result.py -i data/result.txt -o result/
 
 ## 결과
 원본  
-![원본](./data/person.jpg)
+![원본](./data/person.jpg)  
 결과  
 ![결과](./result/person.jpg)
