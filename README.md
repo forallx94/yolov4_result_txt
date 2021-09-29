@@ -23,3 +23,6 @@ python result.py -i data/result.txt -o result/
 ![원본](./data/person.jpg)  
 결과  
 ![결과](./result/person.jpg)
+
+## 참조
+https://github.com/roboflow-ai/darknet/blob/master/darknet_video.py#L10-L34
