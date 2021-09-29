@@ -1,0 +1,14 @@
+ CUDNN_HALF=1 
+net.optimized_memory = 0 
+mini_batch = 1, batch = 8, time_steps = 1, train = 0 
+Create CUDA-stream - 0 
+ Create cudnn-handle 0 
+nms_kind: greedynms (1), beta = 0.600000 
+nms_kind: greedynms (1), beta = 0.600000 
+nms_kind: greedynms (1), beta = 0.600000 
+
+ seen 64, trained: 32032 K-images (500 Kilo-batches_64) 
+Enter Image Path: data/person.jpg: Predicted in 165.818000 milli-seconds.
+dog: 99%	(left_x:   62   top_y:  265   width:  142   height:   80)
+person: 100%	(left_x:  194   top_y:   98   width:   78   height:  281)
+horse: 98%	(left_x:  406   top_y:  140   width:  196   height:  204)
